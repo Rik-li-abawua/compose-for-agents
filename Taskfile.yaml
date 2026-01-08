@@ -40,3 +40,6 @@ tasks:
       - lint:markdown
       - lint:yaml
     desc: Lint all files
+npm create vite@latest gemini-console -- --template react-ts
+cd gemini-console
+npm install
